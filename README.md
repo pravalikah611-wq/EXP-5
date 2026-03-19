@@ -17,7 +17,7 @@ S.No	Name of the Apparatus	Range	Quantity
 
 CIRCUIT DIAGRAM:
 
-<img width="913" height="695" alt="Screenshot 2026-03-11 132601" src="https://github.com/user-attachments/assets/5527395f-4b85-41d1-a9e2-a35bcb6616a2" />
+<img width="1133" height="682" alt="Screenshot 2026-03-19 204239" src="https://github.com/user-attachments/assets/8e26fdb4-95fe-49b0-8f7a-5622391b96ed" />
 
 THEORY:
 	
@@ -34,18 +34,8 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
-LINE REGULATION:
-<img width="1010" height="449" alt="Screenshot 2026-03-11 132219" src="https://github.com/user-attachments/assets/0fae1b8c-8ea5-4cb8-bd08-f4ec4e6d8236" />
+![WhatsApp Image 2026-03-19 at 20 42 29](https://github.com/user-attachments/assets/574c64b4-1276-4cd7-ad87-c06b63cfdc5e)
 
-<img width="1001" height="523" alt="Screenshot 2026-03-11 132231" src="https://github.com/user-attachments/assets/64c0ff0d-3a55-4e01-b296-92342c2f0353" />
-
-<img width="1008" height="499" alt="Screenshot 2026-03-11 132305" src="https://github.com/user-attachments/assets/8906401f-8fef-4029-a2fa-82d3ee40dc1a" />
-LOAD REGULATION:
-<img width="1006" height="455" alt="Screenshot 2026-03-11 132241" src="https://github.com/user-attachments/assets/c32cf9a8-f4d9-41e5-aa03-e4f2e288dec0" />
-
-<img width="1004" height="558" alt="Screenshot 2026-03-11 132254" src="https://github.com/user-attachments/assets/2a462851-8f71-453a-a0bb-cefa7f629d18" />
-
-<img width="997" height="567" alt="Screenshot 2026-03-11 132318" src="https://github.com/user-attachments/assets/bdb920c8-48bd-4382-bc2f-beacc4904538" />
 
 
 
